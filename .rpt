@@ -1,0 +1,59 @@
+** Drc report for /Users/richard/KiCAD-Edison-Board-Template/KiCAD-Edison-Board-Template.kicad_pcb **
+** Created on 2016-12-05 08:37:09 **
+
+** Found 0 DRC errors **
+
+** Found 17 unconnected pads **
+ErrType(2): Unconnected pads
+    @ (122.781 mm,91.093 mm): Pad 5 on B.Cu, Non-copper of U2 net /Edison Connectors/E_GND
+    @ (122.779 mm,91.891 mm): Pad 9 on F.Cu, Non-copper of U1
+ErrType(2): Unconnected pads
+    @ (122.781 mm,90.293 mm): Pad 1 on B.Cu, Non-copper of U2 net /Edison Connectors/E_GND
+    @ (122.779 mm,91.091 mm): Pad 5 on F.Cu, Non-copper of U1
+ErrType(2): Unconnected pads
+    @ (125.417 mm,91.093 mm): Pad 6 on B.Cu, Non-copper of U2 net /Edison Connectors/E_VSYS
+    @ (125.418 mm,91.091 mm): Pad 6 on F.Cu, Non-copper of U1
+ErrType(2): Unconnected pads
+    @ (125.417 mm,91.494 mm): Pad 8 on B.Cu, Non-copper of U2 net /Edison Connectors/E_3_3V
+    @ (125.418 mm,91.492 mm): Pad 8 on F.Cu, Non-copper of U1
+ErrType(2): Unconnected pads
+    @ (125.417 mm,92.294 mm): Pad 12 on B.Cu, Non-copper of U2 net /Edison Connectors/E_1_8V
+    @ (125.418 mm,92.292 mm): Pad 12 on F.Cu, Non-copper of U1
+ErrType(2): Unconnected pads
+    @ (125.418 mm,92.691 mm): Pad 14 on F.Cu, Non-copper of U1 net /Edison Connectors/E_DCIN
+    @ (125.417 mm,92.693 mm): Pad 14 on B.Cu, Non-copper of U2
+ErrType(2): Unconnected pads
+    @ (125.418 mm,93.092 mm): Pad 16 on F.Cu, Non-copper of U1 net /Edison Connectors/E_USB_DP
+    @ (125.417 mm,93.095 mm): Pad 16 on B.Cu, Non-copper of U2
+ErrType(2): Unconnected pads
+    @ (125.418 mm,93.491 mm): Pad 18 on F.Cu, Non-copper of U1 net /Edison Connectors/E_USB_DN
+    @ (125.417 mm,93.493 mm): Pad 18 on B.Cu, Non-copper of U2
+ErrType(2): Unconnected pads
+    @ (125.418 mm,93.892 mm): Pad 20 on F.Cu, Non-copper of U1 net /Edison Connectors/E_USB_VBUS
+    @ (125.417 mm,93.895 mm): Pad 20 on B.Cu, Non-copper of U2
+ErrType(2): Unconnected pads
+    @ (125.418 mm,94.291 mm): Pad 22 on F.Cu, Non-copper of U1 net /Edison Connectors/E_GP134_UART_2_RX
+    @ (125.417 mm,94.293 mm): Pad 22 on B.Cu, Non-copper of U2
+ErrType(2): Unconnected pads
+    @ (125.417 mm,94.695 mm): Pad 24 on B.Cu, Non-copper of U2 net /Edison Connectors/E_GP44
+    @ (125.418 mm,94.692 mm): Pad 24 on F.Cu, Non-copper of U1
+ErrType(2): Unconnected pads
+    @ (125.418 mm,95.091 mm): Pad 26 on F.Cu, Non-copper of U1 net /Edison Connectors/E_GP45
+    @ (125.417 mm,95.094 mm): Pad 26 on B.Cu, Non-copper of U2
+ErrType(2): Unconnected pads
+    @ (125.418 mm,95.490 mm): Pad 28 on F.Cu, Non-copper of U1 net /Edison Connectors/E_GP46
+    @ (125.417 mm,95.495 mm): Pad 28 on B.Cu, Non-copper of U2
+ErrType(2): Unconnected pads
+    @ (125.417 mm,95.894 mm): Pad 30 on B.Cu, Non-copper of U2 net /Edison Connectors/E_GP47
+    @ (125.418 mm,95.891 mm): Pad 30 on F.Cu, Non-copper of U1
+ErrType(2): Unconnected pads
+    @ (125.417 mm,96.295 mm): Pad 32 on B.Cu, Non-copper of U2 net /Edison Connectors/E_GP48
+    @ (125.418 mm,96.290 mm): Pad 32 on F.Cu, Non-copper of U1
+ErrType(2): Unconnected pads
+    @ (125.417 mm,96.694 mm): Pad 34 on B.Cu, Non-copper of U2 net /Edison Connectors/E_GP49
+    @ (125.418 mm,96.691 mm): Pad 34 on F.Cu, Non-copper of U1
+ErrType(2): Unconnected pads
+    @ (125.418 mm,97.090 mm): Pad 36 on F.Cu, Non-copper of U1 net /Edison Connectors/E_RESET_OUT#
+    @ (125.417 mm,97.093 mm): Pad 36 on B.Cu, Non-copper of U2
+
+** End of Report **

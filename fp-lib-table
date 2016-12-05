@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Edison.kicad_mod)(type Legacy)(uri "$(KIPRJMOD)/Components/Layout/Edison.kicad_mod.mod")(options "")(descr ""))
+)
